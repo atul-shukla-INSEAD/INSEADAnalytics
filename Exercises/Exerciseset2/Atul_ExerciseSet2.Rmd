@@ -369,10 +369,12 @@ How does this compare with **existing CTA products** such as [this one from Soci
 <br>
 
 **Your Answers here:**
-Answer 1: 
+
+#Answer 1: 
 The code forms a sequence of moving averages from 10 to 250 in intervals of 20. 
-Answer 2:
-Change in this comand line changes the approach for portfolio composition, e.g. its range and the steps, thus affects how often the trading strategy is implemented.
+
+#Answer 2:
+Change in this command line changes the approach for portfolio composition, e.g. its range and the steps, thus affects how often the trading strategy is implemented.
 
 ### A class competition
 
